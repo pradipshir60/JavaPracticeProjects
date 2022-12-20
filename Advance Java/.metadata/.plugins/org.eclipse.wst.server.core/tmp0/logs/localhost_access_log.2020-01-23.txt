@@ -1,0 +1,13 @@
+127.0.0.1 - - [23/Jan/2020:21:29:35 +0530] "GET / HTTP/1.1" 404 709
+0:0:0:0:0:0:0:1 - - [23/Jan/2020:21:29:54 +0530] "GET /LoginTemplate/ HTTP/1.1" 304 -
+0:0:0:0:0:0:0:1 - - [23/Jan/2020:21:30:01 +0530] "GET /LoginTemplate/css/style.css HTTP/1.1" 304 -
+0:0:0:0:0:0:0:1 - - [23/Jan/2020:21:30:06 +0530] "GET /favicon.ico HTTP/1.1" 404 720
+0:0:0:0:0:0:0:1 - - [23/Jan/2020:21:30:52 +0530] "POST /LoginTemplate/login HTTP/1.1" 302 -
+0:0:0:0:0:0:0:1 - - [23/Jan/2020:21:30:52 +0530] "GET /LoginTemplate/index.html HTTP/1.1" 304 -
+0:0:0:0:0:0:0:1 - - [23/Jan/2020:21:31:02 +0530] "POST /LoginTemplate/login HTTP/1.1" 302 -
+0:0:0:0:0:0:0:1 - - [23/Jan/2020:21:31:02 +0530] "GET /LoginTemplate/Operation.html HTTP/1.1" 304 -
+0:0:0:0:0:0:0:1 - - [23/Jan/2020:21:31:04 +0530] "POST /LoginTemplate/l1 HTTP/1.1" 302 -
+0:0:0:0:0:0:0:1 - - [23/Jan/2020:21:31:05 +0530] "GET /LoginTemplate/insert.html HTTP/1.1" 304 -
+0:0:0:0:0:0:0:1 - - [23/Jan/2020:21:31:15 +0530] "POST /LoginTemplate/l2 HTTP/1.1" 200 -
+127.0.0.1 - - [23/Jan/2020:21:33:16 +0530] "GET / HTTP/1.1" 404 709
+0:0:0:0:0:0:0:1 - - [23/Jan/2020:21:33:24 +0530] "GET /LoginTemplate/l2 HTTP/1.1" 405 751

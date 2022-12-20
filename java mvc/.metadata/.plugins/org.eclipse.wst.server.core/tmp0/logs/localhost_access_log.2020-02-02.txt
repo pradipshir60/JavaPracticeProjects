@@ -1,0 +1,13 @@
+127.0.0.1 - - [02/Feb/2020:21:00:23 +0530] "GET / HTTP/1.1" 404 709
+0:0:0:0:0:0:0:1 - - [02/Feb/2020:21:02:52 +0530] "GET /BundleValidation/ HTTP/1.1" 200 2256
+0:0:0:0:0:0:0:1 - - [02/Feb/2020:21:03:05 +0530] "GET /BundleValidation/struts/utils.js HTTP/1.1" 200 3742
+0:0:0:0:0:0:0:1 - - [02/Feb/2020:21:03:05 +0530] "GET /BundleValidation/struts/xhtml/styles.css HTTP/1.1" 200 1139
+0:0:0:0:0:0:0:1 - - [02/Feb/2020:21:03:05 +0530] "GET /BundleValidation/struts/xhtml/validation.js HTTP/1.1" 200 4666
+0:0:0:0:0:0:0:1 - - [02/Feb/2020:21:03:05 +0530] "GET /BundleValidation/struts/ajax/dojoRequire.js HTTP/1.1" 200 1168
+0:0:0:0:0:0:0:1 - - [02/Feb/2020:21:03:05 +0530] "GET /BundleValidation/struts/css_xhtml/validation.js HTTP/1.1" 200 5261
+0:0:0:0:0:0:0:1 - - [02/Feb/2020:21:03:06 +0530] "GET /BundleValidation/struts/dojo/struts_dojo.js HTTP/1.1" 200 545246
+0:0:0:0:0:0:0:1 - - [02/Feb/2020:21:03:06 +0530] "GET /BundleValidation/register-now.jpg HTTP/1.1" 200 4484
+0:0:0:0:0:0:0:1 - - [02/Feb/2020:21:03:15 +0530] "GET /favicon.ico HTTP/1.1" 404 720
+0:0:0:0:0:0:0:1 - - [02/Feb/2020:21:03:43 +0530] "POST /BundleValidation/register.action;jsessionid=03510E7C26A809977AB77F6886D20089?struts.enableJSONValidation=true&struts.validateOnly=true HTTP/1.1" 200 8
+0:0:0:0:0:0:0:1 - - [02/Feb/2020:21:03:43 +0530] "POST /BundleValidation/register.action;jsessionid=03510E7C26A809977AB77F6886D20089?struts.enableJSONValidation=true&struts.validateOnly=true HTTP/1.1" 200 8
+0:0:0:0:0:0:0:1 - - [02/Feb/2020:21:03:45 +0530] "POST /BundleValidation/register.action;jsessionid=03510E7C26A809977AB77F6886D20089 HTTP/1.1" 200 19

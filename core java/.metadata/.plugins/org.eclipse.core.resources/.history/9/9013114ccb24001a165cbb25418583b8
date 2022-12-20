@@ -1,0 +1,37 @@
+package Polymorphism;
+
+import java.util.Scanner;
+
+class example
+{
+Scanner sc=new Scanner(System.in);
+public void addition()
+{
+	
+System.out.println("Enter two nos");
+	int no1=sc.nextInt();
+	int no2=sc.nextInt();
+	int result=no1+no2;
+	System.out.println("THe addition is:"+result);
+	
+}
+public void addition(float a,float b)
+{
+	
+ System.out.println("Enter the no");	 
+ float result=a+b;
+ System.out.println("THe addition is:"+result);
+}
+
+public static  class FunOverloading {
+
+	public static void main(String[] args) 
+	{
+		// TODO Auto-generated method stub
+example e=new example();
+e.addition();
+e.addition(20, 45);
+	}
+
+}
+}

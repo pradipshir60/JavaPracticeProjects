@@ -1,0 +1,15 @@
+INDEX VERSION 1.131
+D:\java mvc\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2777918471.index
+\modelDriven\src
+D:\java mvc\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3994252855.index
+\strutsdemo\src
+D:\java mvc\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\4001003295.index
+\CustomValidation\src
+D:\java mvc\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2401717162.index
+\fileupload\src
+D:\java mvc\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2228677772.index
+\CustomInterceptor\src
+D:\java mvc\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\866696751.index
+\exeandwait\src
+D:\java mvc\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\437346930.index
+\BundleValidation\src

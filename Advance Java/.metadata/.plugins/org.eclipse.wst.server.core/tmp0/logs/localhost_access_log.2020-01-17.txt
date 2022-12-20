@@ -1,0 +1,8 @@
+127.0.0.1 - - [17/Jan/2020:16:06:03 +0530] "GET / HTTP/1.1" 404 709
+0:0:0:0:0:0:0:1 - - [17/Jan/2020:16:06:10 +0530] "GET /LoginApplication/ HTTP/1.1" 200 405
+0:0:0:0:0:0:0:1 - - [17/Jan/2020:16:06:28 +0530] "POST /LoginApplication/login HTTP/1.1" 302 -
+0:0:0:0:0:0:0:1 - - [17/Jan/2020:16:06:29 +0530] "GET /LoginApplication/welcome.html HTTP/1.1" 200 165
+0:0:0:0:0:0:0:1 - - [17/Jan/2020:16:08:55 +0530] "GET /LoginApplication/ HTTP/1.1" 200 405
+0:0:0:0:0:0:0:1 - - [17/Jan/2020:16:09:27 +0530] "GET /favicon.ico HTTP/1.1" 404 720
+0:0:0:0:0:0:0:1 - - [17/Jan/2020:16:10:16 +0530] "POST /LoginApplication/login HTTP/1.1" 302 -
+0:0:0:0:0:0:0:1 - - [17/Jan/2020:16:10:16 +0530] "GET /LoginApplication/welcome.html HTTP/1.1" 200 165

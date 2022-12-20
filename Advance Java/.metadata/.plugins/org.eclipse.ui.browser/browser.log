@@ -1,0 +1,75 @@
+
+Jan 20, 2020 18:03:29.04 NEW SESSION
+Jan 20, 2020 18:03:29.04 [5976:4628:0120/180329.034:ERROR:connection_factory_impl.cc(418)] Failed to connect to MCS endpoint with error -106
+Jan 20, 2020 18:03:58.86 [5976:4628:0120/180358.867:ERROR:connection_factory_impl.cc(418)] Failed to connect to MCS endpoint with error -106
+Jan 20, 2020 18:27:51.62 [5824:3076:0120/182751.621:ERROR:connection_factory_impl.cc(418)] Failed to connect to MCS endpoint with error -106
+Jan 20, 2020 18:28:15.37 [5824:3076:0120/182815.372:ERROR:connection_factory_impl.cc(418)] Failed to connect to MCS endpoint with error -106
+
+Jan 21, 2020 15:15:27.75 NEW SESSION
+Jan 21, 2020 15:15:27.75 [744:620:0121/151527.751:ERROR:connection_factory_impl.cc(418)] Failed to connect to MCS endpoint with error -106
+Jan 21, 2020 15:18:58.68 [224:1876:0121/151858.683:ERROR:connection_factory_impl.cc(418)] Failed to connect to MCS endpoint with error -106
+Jan 21, 2020 15:19:27.72 [224:1876:0121/151927.725:ERROR:connection_factory_impl.cc(418)] Failed to connect to MCS endpoint with error -106
+Jan 21, 2020 15:22:23.57 [1744:1148:0121/152223.576:ERROR:connection_factory_impl.cc(418)] Failed to connect to MCS endpoint with error -106
+Jan 21, 2020 15:22:47.55 [1744:1148:0121/152247.551:ERROR:connection_factory_impl.cc(418)] Failed to connect to MCS endpoint with error -106
+Jan 21, 2020 15:23:35.55 [1744:1148:0121/152335.554:ERROR:connection_factory_impl.cc(418)] Failed to connect to MCS endpoint with error -106
+Jan 21, 2020 15:38:28.24 [1736:4036:0121/153828.241:ERROR:connection_factory_impl.cc(418)] Failed to connect to MCS endpoint with error -106
+Jan 21, 2020 15:41:23.46 [4312:4216:0121/154123.462:ERROR:connection_factory_impl.cc(418)] Failed to connect to MCS endpoint with error -106
+Jan 21, 2020 15:43:42.68 [1480:96:0121/154342.680:ERROR:connection_factory_impl.cc(418)] Failed to connect to MCS endpoint with error -106
+Jan 21, 2020 15:46:36.22 [4492:4288:0121/154636.229:ERROR:connection_factory_impl.cc(418)] Failed to connect to MCS endpoint with error -106
+Jan 21, 2020 15:47:00.58 [4492:4288:0121/154700.583:ERROR:connection_factory_impl.cc(418)] Failed to connect to MCS endpoint with error -106
+Jan 21, 2020 16:00:34.47 [4744:1500:0121/160034.477:ERROR:connection_factory_impl.cc(418)] Failed to connect to MCS endpoint with error -106
+Jan 21, 2020 16:00:56.07 [4744:1500:0121/160056.078:ERROR:connection_factory_impl.cc(418)] Failed to connect to MCS endpoint with error -106
+Jan 21, 2020 20:18:21.81 [3524:620:0121/201821.770:ERROR:connection_factory_impl.cc(418)] Failed to connect to MCS endpoint with error -106
+Jan 21, 2020 20:18:25.41 [3524:620:0121/201821.958:ERROR:checkin_request.cc(223)] Failed to get checkin response. Fetcher failed. Retrying.
+Jan 21, 2020 20:18:40.97 [3524:3768:0121/201840.973:ERROR:account_info_fetcher.cc(60)] OnGetTokenFailure: Connection failed (-106).
+Jan 21, 2020 20:18:42.07 [3524:620:0121/201842.073:ERROR:connection_factory_impl.cc(418)] Failed to connect to MCS endpoint with error -106
+Jan 21, 2020 20:18:44.82 [3524:620:0121/201844.828:ERROR:checkin_request.cc(223)] Failed to get checkin response. Fetcher failed. Retrying.
+Jan 21, 2020 20:19:25.83 [3524:620:0121/201925.829:ERROR:checkin_request.cc(223)] Failed to get checkin response. Fetcher failed. Retrying.
+Jan 21, 2020 20:19:35.32 [3524:620:0121/201935.322:ERROR:connection_factory_impl.cc(418)] Failed to connect to MCS endpoint with error -106
+
+Jan 24, 2020 14:55:21.46 NEW SESSION
+Jan 24, 2020 14:55:21.46 [5108:1776:0124/145521.147:ERROR:connection_factory_impl.cc(418)] Failed to connect to MCS endpoint with error -106
+Jan 24, 2020 14:55:53.72 [5108:1776:0124/145553.724:ERROR:connection_factory_impl.cc(418)] Failed to connect to MCS endpoint with error -106
+Jan 24, 2020 14:56:38.32 [5108:1776:0124/145638.320:ERROR:connection_factory_impl.cc(418)] Failed to connect to MCS endpoint with error -106
+Jan 24, 2020 15:10:07.08 [5200:3836:0124/151007.031:ERROR:connection_factory_impl.cc(418)] Failed to connect to MCS endpoint with error -106
+Jan 24, 2020 15:12:00.68 [5916:3156:0124/151200.627:ERROR:connection_factory_impl.cc(418)] Failed to connect to MCS endpoint with error -106
+Jan 24, 2020 15:14:59.16 [2164:5748:0124/151459.166:ERROR:connection_factory_impl.cc(418)] Failed to connect to MCS endpoint with error -106
+Jan 24, 2020 15:15:23.30 [2164:5748:0124/151523.299:ERROR:connection_factory_impl.cc(418)] Failed to connect to MCS endpoint with error -106
+Jan 24, 2020 15:17:47.90 [6024:2908:0124/151747.907:ERROR:connection_factory_impl.cc(418)] Failed to connect to MCS endpoint with error -106
+Jan 24, 2020 15:18:12.09 [6024:2908:0124/151812.089:ERROR:connection_factory_impl.cc(418)] Failed to connect to MCS endpoint with error -106
+Jan 24, 2020 15:20:27.97 [2368:2164:0124/152027.971:ERROR:connection_factory_impl.cc(418)] Failed to connect to MCS endpoint with error -106
+Jan 24, 2020 15:20:54.55 [2368:2164:0124/152054.555:ERROR:connection_factory_impl.cc(418)] Failed to connect to MCS endpoint with error -106
+Jan 24, 2020 15:21:44.46 [2368:2164:0124/152144.460:ERROR:connection_factory_impl.cc(418)] Failed to connect to MCS endpoint with error -106
+Jan 24, 2020 15:23:20.56 [2368:2164:0124/152320.562:ERROR:connection_factory_impl.cc(418)] Failed to connect to MCS endpoint with error -106
+Jan 24, 2020 15:26:09.71 [2368:2164:0124/152609.717:ERROR:connection_factory_impl.cc(418)] Failed to connect to MCS endpoint with error -106
+Jan 24, 2020 15:28:06.16 [5292:4020:0124/152806.161:ERROR:connection_factory_impl.cc(418)] Failed to connect to MCS endpoint with error -106
+Jan 24, 2020 15:28:35.30 [5292:4020:0124/152835.305:ERROR:connection_factory_impl.cc(418)] Failed to connect to MCS endpoint with error -106
+Jan 24, 2020 15:29:28.65 [5292:4020:0124/152928.649:ERROR:connection_factory_impl.cc(418)] Failed to connect to MCS endpoint with error -106
+Jan 24, 2020 15:30:54.18 [5292:4020:0124/153054.186:ERROR:connection_factory_impl.cc(418)] Failed to connect to MCS endpoint with error -106
+Jan 24, 2020 15:34:20.73 [5292:4020:0124/153420.733:ERROR:connection_factory_impl.cc(418)] Failed to connect to MCS endpoint with error -106
+Jan 24, 2020 15:39:26.82 [5292:3636:0124/153926.819:ERROR:gcm_channel_status_request.cc(145)] GCM channel request failed.
+Jan 24, 2020 15:39:50.12 [5292:3636:0124/153950.119:ERROR:gcm_channel_status_request.cc(145)] GCM channel request failed.
+Jan 24, 2020 15:40:48.26 [5292:3636:0124/154048.264:ERROR:gcm_channel_status_request.cc(145)] GCM channel request failed.
+Jan 24, 2020 15:41:55.97 [5292:4020:0124/154155.976:ERROR:connection_factory_impl.cc(418)] Failed to connect to MCS endpoint with error -106
+Jan 24, 2020 15:42:10.90 [5292:3636:0124/154210.901:ERROR:gcm_channel_status_request.cc(145)] GCM channel request failed.
+Jan 24, 2020 15:45:06.00 [5292:3636:0124/154506.001:ERROR:gcm_channel_status_request.cc(145)] GCM channel request failed.
+Jan 24, 2020 18:47:11.93 [5292:3636:0124/184711.935:ERROR:gcm_channel_status_request.cc(145)] GCM channel request failed.
+Jan 24, 2020 18:47:12.18 [5292:4020:0124/184711.938:ERROR:connection_factory_impl.cc(418)] Failed to connect to MCS endpoint with error -106
+Jan 25, 2020 09:58:32.98 [5292:4020:0125/095832.988:ERROR:connection_factory_impl.cc(418)] Failed to connect to MCS endpoint with error -106
+Jan 25, 2020 09:58:34.04 [5292:3636:0125/095834.040:ERROR:gcm_channel_status_request.cc(145)] GCM channel request failed.
+Jan 25, 2020 09:59:11.27 [5292:3636:0125/095911.271:ERROR:account_info_fetcher.cc(60)] OnGetTokenFailure: Connection failed (-106).
+
+Jan 25, 2020 11:07:21.59 NEW SESSION
+Jan 25, 2020 11:07:21.59 [2860:2540:0125/110721.581:ERROR:connection_factory_impl.cc(418)] Failed to connect to MCS endpoint with error -106
+Jan 25, 2020 11:07:48.72 [2860:2540:0125/110748.719:ERROR:connection_factory_impl.cc(418)] Failed to connect to MCS endpoint with error -106
+Jan 25, 2020 11:08:41.41 [2860:2540:0125/110841.413:ERROR:connection_factory_impl.cc(418)] Failed to connect to MCS endpoint with error -106
+Jan 25, 2020 11:10:17.54 [2860:2540:0125/111017.542:ERROR:connection_factory_impl.cc(418)] Failed to connect to MCS endpoint with error -106
+Jan 25, 2020 11:14:01.42 [2860:2540:0125/111401.419:ERROR:connection_factory_impl.cc(418)] Failed to connect to MCS endpoint with error -106
+Jan 25, 2020 14:17:29.23 [2860:2540:0125/141728.532:ERROR:connection_factory_impl.cc(418)] Failed to connect to MCS endpoint with error -106
+Jan 25, 2020 14:17:29.82 [2860:5168:0125/141728.630:ERROR:gcm_channel_status_request.cc(145)] GCM channel request failed.
+Jan 27, 2020 20:21:35.92 [2860:2540:0127/202132.452:ERROR:connection_factory_impl.cc(418)] Failed to connect to MCS endpoint with error -106
+Jan 27, 2020 20:21:43.58 [2860:5168:0127/202133.057:ERROR:gcm_channel_status_request.cc(145)] GCM channel request failed.
+Jan 27, 2020 20:21:43.83 [2860:2540:0127/202133.061:ERROR:checkin_request.cc(223)] Failed to get checkin response. Fetcher failed. Retrying.
+Jan 27, 2020 20:21:56.88 [2860:2540:0127/202156.885:ERROR:checkin_request.cc(223)] Failed to get checkin response. Fetcher failed. Retrying.
+Jan 27, 2020 20:22:07.17 [2860:5168:0127/202206.809:ERROR:account_info_fetcher.cc(60)] OnGetTokenFailure: Connection failed (-331).
+Jan 27, 2020 20:22:13.47 [2860:5168:0127/202213.434:ERROR:gcm_channel_status_request.cc(145)] GCM channel request failed.
